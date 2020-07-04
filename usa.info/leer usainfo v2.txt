@@ -1,0 +1,21 @@
+
+
+El proyecto lo publique 
+http://usastreams.info/Default.aspx
+
+La version subida es esta, le hice algunos cambios pequeños comentados.
+
+Las notas las escribo asi
+//JOSE Comentarios
+//Estos datos cambiarlos antes de compilar
+//JOSE TO-DO; Pasamos esto al confy. 
+
+
+He creado una carpeta en el proyecto, dentro otras dos, notas y enlaces, nuestros modulos
+los pondremos dentro, para que sean independientes, dentro del iframe se llamarian asi:
+http://usastreams.info/modulos/notas/notas.aspx
+
+El tema iframe, si se te ocurre otra forma de hacerlo, me comentas y lo hablamos.
+
+
+
